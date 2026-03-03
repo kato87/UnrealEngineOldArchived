@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "mediasoup-sdp-bridge": "file:mediasoup-sdp-bridge",
-    "ws": "^7.1.2",
+    "ws": "^7.5.10",
     "mediasoup_prebuilt": "^3.8.4",
     "run-script-os": "^1.1.6"
   }
